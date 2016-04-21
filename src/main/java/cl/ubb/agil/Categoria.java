@@ -1,7 +1,7 @@
 package cl.ubb.agil;
 
 public class Categoria {
-
+	
 	String nombre;
 	String codigo; 
 	
